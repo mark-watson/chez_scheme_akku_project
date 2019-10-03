@@ -1,0 +1,10 @@
+#!r6rs ; -*- mode: scheme; coding: utf-8 -*-
+(import (akku format manifest))
+
+(akku-package ("guile_akku_project" "1.0.0-alpha.0")
+  (synopsis "I did not edit Akku.manifest")
+  (authors "Mark Watson")
+  (license "MIT")
+  (depends ("wak-htmlprag" "^0.19.0")
+           ("chez-srfi" ">=0.0.0-akku <1.0.0"))
+)
