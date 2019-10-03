@@ -2,6 +2,8 @@
 
 Akku web site: https://akkuscm.org
 
+When I created this tyest project with Akku, I specified the project name as "guile_akku_project" which is now the name of the library defined here.
+
 Run this example:
 
     $ .akku/bin/guile_akku_project.sps
