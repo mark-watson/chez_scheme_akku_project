@@ -6,6 +6,7 @@ When I created this tyest project with Akku, I specified the project name as "gu
 
 Run this example:
 
+    $ .akku/env
     $ .akku/bin/guile_akku_project.sps
 
 Note that even though Akku uses Guile, this example is run under Chez Scheme, which seems to be the default.
